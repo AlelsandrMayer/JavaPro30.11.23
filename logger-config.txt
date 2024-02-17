@@ -1,0 +1,4 @@
+FILE: logs
+LEVEL: info
+MAX-SIZE: 200
+FORMAT: [%s]-[%s]--%s
